@@ -1,0 +1,11 @@
+BookingID,Client,Service,Date,Amount,Status
+1,Amanda,Bridal Makeup,2026-10-01,1200,Completed
+2,Nokuthula,Glam Makeup,2026-10-02,700,Completed
+3,Ayanda,Glam Makeup,2026-10-03,700,Completed
+4,Zanele,soft glam Makeup,2026-10-04,900,Cancelled
+5,Lerato,Bridal Makeup,2026-10-05,1200,Completed
+6,Siphesihle,Glam Makeup,2026-10-06,700,Completed
+7,Thando,Bridal Makeup,2026-10-07,1200,Completed
+8,Nomfundo,Soft glam Makeup,2026-10-08,900,Completed
+9,Bongi,Glam Makeup,2026-10-09,700,Completed
+10,Asanda,Bridal Makeup,2026-10-10,1200,Completed
